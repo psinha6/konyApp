@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        4,
+        4,
+        4,
+        4
+    ],
+    "_render_": true,
+    "_skin_": "sde06382a3f34ece91502163b32dcb41",
+    "_text_": "Submit",
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerWeight": 100,
+    "containerweight": 100,
+    "contentAlignment": 5,
+    "contentalignment": 5,
+    "displayText": true,
+    "displaytext": true,
+    "enabled": false,
+    "focusSkin": "sbce44d91b42476d8c11c9ad62015f58",
+    "focusskin": "sbce44d91b42476d8c11c9ad62015f58",
+    "id": "Button0e768b2eef4e84d",
+    "info": null,
+    "iphone": {
+        "render": true
+    },
+    "isVisible": true,
+    "isvisible": true,
+    "kuid": "1ed1d602dd2b4a039526de289d9ce41b",
+    "margin": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "name": "kony.ui.Button",
+    "padding": [
+        4,
+        4,
+        4,
+        4
+    ],
+    "parent": "Form0d58f6d73c1e04f",
+    "pf": "Form0d58f6d73c1e04f",
+    "render": true,
+    "skin": "sde06382a3f34ece91502163b32dcb41",
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "text": "Submit",
+    "wType": "Button",
+    "widgetAlignment": 5,
+    "winphone8": {
+        "render": true
+    }
+}

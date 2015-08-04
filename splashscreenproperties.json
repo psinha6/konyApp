@@ -1,0 +1,33 @@
+{
+    "splashScreen": {
+        "mobile": {
+            "iphone": {},
+            "android": {
+                "videoInterruptible": true,
+                "animationDuration": 10,
+                "backgroundColor": "3da193",
+                "splashVideo": "splash.mp4"
+            },
+            "winphone8": {},
+            "spa": {},
+            "spaip": {},
+            "spaan": {},
+            "spawinphone8": {}
+        },
+        "tablet": {
+            "ipad": {
+                "landscape": {}
+            },
+            "android": {},
+            "windows8": {},
+            "spa": {},
+            "spaipad": {},
+            "spaandroidtablet": {},
+            "spawindowstablet": {}
+        },
+        "desktop": {
+            "desktopweb": {},
+            "kiosk": {}
+        }
+    }
+}
