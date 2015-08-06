@@ -158,5 +158,6 @@
     "wap_bb320_fontsize": "12",
     "wap_bb360_fontsize": "12",
     "wap_android480_fontsize": "12",
-    "desktopstartupformkey": "Form03bbd7cf5215448"
+    "desktopstartupformkey": "Form03bbd7cf5215448",
+    "tabletstartupformkey": "Form03c505d46424945"
 }
